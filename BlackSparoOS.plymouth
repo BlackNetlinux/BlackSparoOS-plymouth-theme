@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=BlackSparoOS
+Description=BlackSparoOS theme by BlackNet
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/BlackSparoOS
+ScriptFile=/usr/share/plymouth/themes/BlackSparoOS/BlackSparoOS.script
