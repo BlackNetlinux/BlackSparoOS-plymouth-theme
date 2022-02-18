@@ -1,8 +1,8 @@
-## Dark Mint
+## BlackSparoOS linux
 
-*Dark Mint* is a theme for Plymouth, the boot splash tool for Linux. It's designed with Linux Mint in mind, but can be used in any installation that uses Plymouth.
+*BlackSparoOS* is a theme for Plymouth, the boot splash tool for Linux. It's designed with BlackSparoOS in mind, but can be used in any installation that uses Plymouth.
 
-[![Screenshot](https://jsayol.github.io/SparoOS-plymouth-theme/img/screenshot_small.png)](https://jsayol.github.io/SparoOS-plymouth-theme/img/screenshot.png)
+[![Screenshot](https://github.com/SparoOS/BlackSparoOS-plymouth-theme/blob/main/screenshot_small.png)](https://github.com/SparoOS/BlackSparoOS-plymouth-theme/blob/main/screenshot.png)
 
 ## How to install the theme
 From the terminal, run the install script:
@@ -12,16 +12,16 @@ From the terminal, run the install script:
 ## How to uninstall the theme
 From the terminal, run this command:
 
-    sudo /usr/share/plymouth/themes/SparoOS/uninstall.sh
+    sudo /usr/share/plymouth/themes/BlackSparoOS/uninstall.sh
 
 ## How to preview the theme
 After installing, you can preview the theme without having to reboot. Just run this command from the terminal:
 
-    sudo /usr/share/plymouth/themes/SparoOS/preview.sh
+    sudo /usr/share/plymouth/themes/BlackSparoOS/preview.sh
 
 It runs for 2 seconds by default. You can optionally specify the number of seconds to run the preview:
 
-    sudo /usr/share/plymouth/themes/SparoOS/preview.sh 10
+    sudo /usr/share/plymouth/themes/BlackSparoOS/preview.sh 10
 
 #### Note: previewing the theme requires *plymouth-x11*. To install the package:
 
@@ -30,7 +30,7 @@ It runs for 2 seconds by default. You can optionally specify the number of secon
 
 ## License
 
-Copyright (C) 2015  Josep Sayol
+Copyright (C) 2020  BlackNet , MTD Mehrez
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -44,3 +44,5 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+        Site => [ M-Technology ( <https://mtd-tec.blogspot.com/> )]
